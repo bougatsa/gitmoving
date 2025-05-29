@@ -1,0 +1,8 @@
+Payment, Invoice_XXX  
+Hi Accounts,
+
+For your records, please find attached Invoice_XXX for consultancy work associated... 
+Already paid via Direct Debit
+
+Kind regards,
+Nepeta
